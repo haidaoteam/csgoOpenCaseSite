@@ -1,0 +1,19 @@
+*.pyc
+/.idea
+/static/
+*.db
+activate.bat
+/temp_data/
+
+
+# Elastic Beanstalk Files
+
+.elasticbeanstalk
+.elasticbeanstalk/*
+
+!.elasticbeanstalk/*.cfg.yml
+
+!.elasticbeanstalk/*.global.yml
+
+/media
+
